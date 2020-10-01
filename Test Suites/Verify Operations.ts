@@ -9,6 +9,7 @@
    <pageLoadTimeout>5</pageLoadTimeout>
    <pageLoadTimeoutDefault>true</pageLoadTimeoutDefault>
    <rerunFailedTestCasesOnly>false</rerunFailedTestCasesOnly>
+   <rerunImmediately>false</rerunImmediately>
    <testSuiteGuid>437cc529-6e28-4c94-ae29-e1709755d800</testSuiteGuid>
    <testCaseLink>
       <guid>665d328f-aff4-4e66-83d3-858388a521f0</guid>
@@ -33,5 +34,11 @@
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
       <testCaseId>Test Cases/operations/Verify Plus</testCaseId>
+   </testCaseLink>
+   <testCaseLink>
+      <guid>ed761aea-0582-445c-b162-61012ed87c7c</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/operations/VerifyPercentage</testCaseId>
    </testCaseLink>
 </TestSuiteEntity>
